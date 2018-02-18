@@ -1,0 +1,5 @@
+/Users/massimotrovati/Projects/numeri-lotteria/numeri-lotteria/bin/Debug/numeri-lotteria.exe
+/Users/massimotrovati/Projects/numeri-lotteria/numeri-lotteria/bin/Debug/numeri-lotteria.pdb
+/Users/massimotrovati/Projects/numeri-lotteria/numeri-lotteria/obj/x86/Debug/numeri-lotteria.csproj.CoreCompileInputs.cache
+/Users/massimotrovati/Projects/numeri-lotteria/numeri-lotteria/obj/x86/Debug/numeri-lotteria.exe
+/Users/massimotrovati/Projects/numeri-lotteria/numeri-lotteria/obj/x86/Debug/numeri-lotteria.pdb
